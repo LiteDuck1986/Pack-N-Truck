@@ -4,45 +4,87 @@ using TMPro;
 
 public class VehicleDelivery : MonoBehaviour
 {
-    [Header("Locations")]
+    [Header("References")]
+    [SerializeField] private WarehouseSceneController warehouseController;
     [SerializeField] private Transform pickupPoint;
     [SerializeField] private Transform deliveryPoint;
-    [SerializeField] private float interactionDistance = 2f;
 
-    [Header("Payment")]
-    [SerializeField] private int deliveryReward = 50;
+    [Header("Delivery")]
+    [SerializeField] private float interactionDistance = 2f;
+    [SerializeField] private int rewardPerPackage = 50;
 
     [Header("UI")]
     [SerializeField] private TMP_Text moneyText;
     [SerializeField] private TMP_Text instructionText;
 
-    private bool hasPackage;
     private int money;
 
     private void Update()
     {
+        if (warehouseController == null ||
+            warehouseController.InWarehouse)
+        {
+            return;
+        }
+
+        TrailerCargo cargo = warehouseController.Cargo;
+
+        int packageCount = cargo != null ? cargo.CargoCount : 0;
+        float cargoWeight = cargo != null ? cargo.CargoWeight : 0f;
+
         bool nearPickup = IsNear(pickupPoint);
         bool nearDelivery = IsNear(deliveryPoint);
 
         Keyboard keyboard = Keyboard.current;
 
-        if (keyboard != null && keyboard.eKey.wasPressedThisFrame)
+        // Pickup interaction is handled by the scene controller.
+        if (!nearPickup && nearDelivery && packageCount > 0 &&
+            keyboard != null && keyboard.eKey.wasPressedThisFrame)
         {
-            if (!hasPackage && nearPickup)
-            {
-                hasPackage = true;
-                Debug.Log("Package loaded!");
-            }
-            else if (hasPackage && nearDelivery)
-            {
-                hasPackage = false;
-                money += deliveryReward;
+            int deliveredCount = cargo.UnloadCargo();
+            int payment = deliveredCount * rewardPerPackage;
 
-                Debug.Log($"Delivery complete! Earned ${deliveryReward}.");
-            }
+            money += payment;
+
+            Debug.Log(
+                $"Delivered {deliveredCount} packages. Earned ${payment}."
+            );
+
+            packageCount = cargo.CargoCount;
+            cargoWeight = cargo.CargoWeight;
         }
 
-        UpdateUI(nearPickup, nearDelivery);
+        if (moneyText != null)
+            moneyText.text = $"Money: ${money}";
+
+        if (instructionText == null)
+            return;
+
+        string cargoSummary =
+            $"Cargo: {packageCount} packages | {cargoWeight:0.0} kg";
+
+        if (nearPickup)
+        {
+            instructionText.text =
+                $"{cargoSummary}\nPress E to enter the warehouse";
+        }
+        else if (nearDelivery && packageCount > 0)
+        {
+            int payment = packageCount * rewardPerPackage;
+
+            instructionText.text =
+                $"{cargoSummary}\nPress E to deliver (+${payment})";
+        }
+        else if (packageCount == 0)
+        {
+            instructionText.text =
+                "Cargo: empty. Visit the warehouse to load packages.";
+        }
+        else
+        {
+            instructionText.text =
+                $"{cargoSummary}\nDrive to the delivery point.";
+        }
     }
 
     private bool IsNear(Transform point)
@@ -50,59 +92,7 @@ public class VehicleDelivery : MonoBehaviour
         if (point == null)
             return false;
 
-        float distance = Vector2.Distance(
-            transform.position,
-            point.position
-        );
-
-        return distance <= interactionDistance;
-    }
-
-    private void UpdateUI(bool nearPickup, bool nearDelivery)
-    {
-        if (moneyText != null)
-        {
-            moneyText.text = $"Money: ${money}";
-        }
-
-        if (instructionText == null)
-            return;
-
-        if (hasPackage)
-        {
-            instructionText.text = nearDelivery
-                ? $"Press E to deliver (+${deliveryReward})"
-                : "Cargo: 1 package. Drive to the delivery point.";
-        }
-        else
-        {
-            instructionText.text = nearPickup
-                ? "Press E to load a package"
-                : "Cargo: empty. Drive to the pickup point.";
-        }
-    }
-
-    private void OnDrawGizmosSelected()
-    {
-        // Interaction area in Scene view (gizmos)
-        Gizmos.color = Color.green;
-
-        if (pickupPoint != null)
-        {
-            Gizmos.DrawWireSphere(
-                pickupPoint.position,
-                interactionDistance
-            );
-        }
-
-        Gizmos.color = Color.blue;
-
-        if (deliveryPoint != null)
-        {
-            Gizmos.DrawWireSphere(
-                deliveryPoint.position,
-                interactionDistance
-            );
-        }
+        return Vector2.Distance(transform.position, point.position)
+            <= interactionDistance;
     }
 }

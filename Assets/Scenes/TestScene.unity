@@ -40359,7 +40359,7 @@ MonoBehaviour:
   vehicle: {fileID: 840449582}
   pickupPoint: {fileID: 630631300}
   interactionDistance: 2
-  interactionText: {fileID: 1151008415}
+  interactionText: {fileID: 0}
   warehouseSceneName: Warehouse
 --- !u!4 &750174218
 Transform:
@@ -40511,15 +40511,16 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 840449579}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: b886dc97c7a5bb149a1835915e108bd5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::VehicleDelivery
+  warehouseController: {fileID: 750174217}
   pickupPoint: {fileID: 630631300}
   deliveryPoint: {fileID: 2032992185}
   interactionDistance: 2
-  deliveryReward: 50
+  rewardPerPackage: 50
   moneyText: {fileID: 181710978}
   instructionText: {fileID: 1151008415}
 --- !u!1 &1025917354

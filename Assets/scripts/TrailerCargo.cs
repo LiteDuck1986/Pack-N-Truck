@@ -1,5 +1,6 @@
 using UnityEngine;
 using TMPro;
+using System.Collections.Generic;
 
 public class TrailerCargo : MonoBehaviour
 {
@@ -20,6 +21,8 @@ public class TrailerCargo : MonoBehaviour
 
     private int protrudingPackages;
     private bool setupValid;
+    private readonly List<Rigidbody2D> loadedPackages =
+    new List<Rigidbody2D>();
 
     private void LateUpdate()
     {
@@ -38,6 +41,8 @@ public class TrailerCargo : MonoBehaviour
 
     private void RefreshCargo()
     {
+        loadedPackages.Clear();
+
         CargoCount = 0;
         CargoWeight = 0f;
         protrudingPackages = 0;
@@ -73,6 +78,7 @@ public class TrailerCargo : MonoBehaviour
                 // Held packages do not count as loaded.
                 if (body != dragController.HeldBody)
                 {
+                    loadedPackages.Add(body);
                     CargoCount++;
                     CargoWeight += body.mass;
                 }
@@ -103,6 +109,33 @@ public class TrailerCargo : MonoBehaviour
         {
             SetStatus("Ready to leave. Press Esc to return.");
         }
+    }
+
+    public int UnloadCargo()
+    {
+        int deliveredCount = 0;
+
+        foreach (Rigidbody2D package in loadedPackages)
+        {
+            if (package == null)
+                continue;
+
+            package.gameObject.SetActive(false);
+            Destroy(package.gameObject);
+            deliveredCount++;
+        }
+
+        loadedPackages.Clear();
+
+        CargoCount = 0;
+        CargoWeight = 0f;
+
+        if (cargoText != null)
+            cargoText.text = "Cargo: 0 packages | 0.0 kg";
+
+        SetStatus("Ready to leave. Press Esc to return.");
+
+        return deliveredCount;
     }
 
     private bool IsFullyInside(Bounds package, Bounds area)

@@ -19,6 +19,11 @@ public class WarehouseSceneController : MonoBehaviour
     private GameObject warehouseRoot;
     private bool inWarehouse;
     private bool switchingScenes;
+    public bool InWarehouse => inWarehouse;
+
+    public TrailerCargo Cargo => warehouseRoot == null
+        ? null
+        : warehouseRoot.GetComponent<TrailerCargo>();
 
     private void Update()
     {
