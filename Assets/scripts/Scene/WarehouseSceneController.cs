@@ -120,6 +120,17 @@ public class WarehouseSceneController : MonoBehaviour
 
     private void ReturnToOverworld()
     {
+        TrailerCargo cargo = warehouseRoot.GetComponent<TrailerCargo>();
+
+        if (cargo == null)
+        {
+            Debug.LogError("Add TrailerCargo to WarehouseRoot.");
+            return;
+        }
+
+        if (!cargo.CanLeave())
+            return;
+
         warehouseRoot.SetActive(false);
         overworldRoot.SetActive(true);
         inWarehouse = false;

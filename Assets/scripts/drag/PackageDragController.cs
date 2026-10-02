@@ -17,6 +17,8 @@ public class PackageDragController : MonoBehaviour
     private Rigidbody2D heldBody;
     private TargetJoint2D dragJoint;
     private LineRenderer dragLine;
+    public Rigidbody2D HeldBody => heldBody;
+    public bool IsDragging => heldBody != null;
 
     private void Awake()
     {
