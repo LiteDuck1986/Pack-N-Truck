@@ -21,12 +21,14 @@ public class VehicleController : MonoBehaviour
     private Vector2 moveInput;
     private Quaternion startingRotation;
     private float wobblePhase;
+    private VehicleTerrainSpeed terrainSpeed;
 
     // Initializes the Rigidbody2D and stores the starting rotation of the visual!
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
         startingRotation = visual.localRotation;
+        terrainSpeed = GetComponent<VehicleTerrainSpeed>();
     }
 
     private void Update()
@@ -67,7 +69,11 @@ public class VehicleController : MonoBehaviour
     // Rigidbody update
     private void FixedUpdate()
     {
-        rb.linearVelocity = moveInput * moveSpeed;
+        float multiplier = terrainSpeed != null
+            ? terrainSpeed.GetSpeedMultiplier()
+            : 1f;
+
+        rb.linearVelocity = moveInput * moveSpeed * multiplier;
     }
 
     // Applies a wobble effect to the vehicle's visual, based on whether it is moving or idle

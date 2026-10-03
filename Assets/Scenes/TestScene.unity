@@ -45287,6 +45287,7 @@ GameObject:
   - component: {fileID: 840449583}
   - component: {fileID: 840449584}
   - component: {fileID: 840449585}
+  - component: {fileID: 840449586}
   m_Layer: 0
   m_Name: Vehicle
   m_TagString: Untagged
@@ -45381,6 +45382,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1719089714}
+  - {fileID: 1452145791}
   m_Father: {fileID: 180892026}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &840449583
@@ -45436,6 +45438,25 @@ MonoBehaviour:
   vehicleSprite: {fileID: 1719089715}
   smoke: {fileID: 75041699}
   minimumSpeed: 0.1
+--- !u!114 &840449586
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 840449579}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6eca21c49124480409556c902eb7d2eb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::VehicleTerrainSpeed
+  groundCheck: {fileID: 1452145791}
+  defaultMultiplier: 0.6
+  terrainRules:
+  - tilemap: {fileID: 593509143}
+    matchingTiles:
+    - {fileID: 11400000, guid: 5a74ff02dfd431645aea306f9e49c657, type: 2}
+    speedMultiplier: 1
 --- !u!1 &854590365
 GameObject:
   m_ObjectHideFlags: 0
@@ -47035,6 +47056,37 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1151008413}
   m_CullTransparentMesh: 1
+--- !u!1 &1452145790
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1452145791}
+  m_Layer: 0
+  m_Name: GroundCheck
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1452145791
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1452145790}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.002, y: -0.076, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 840449582}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1719089713
 GameObject:
   m_ObjectHideFlags: 0
