@@ -9,6 +9,11 @@ public class TrailerCargo : MonoBehaviour
     [SerializeField] private Transform packagesRoot;
     [SerializeField] private PackageDragController dragController;
 
+    [Header("Truck Capacity")]
+    [SerializeField, Min(0.1f)] private float maxCargoWeight = 10f;
+
+    public float MaxCargoWeight => maxCargoWeight;
+
     [Header("UI")]
     [SerializeField] private TMP_Text cargoText;
     [SerializeField] private TMP_Text loadingStatusText;
@@ -31,12 +36,12 @@ public class TrailerCargo : MonoBehaviour
 
     public bool CanLeave()
     {
-        // Check again immediately before leaving.
         RefreshCargo();
 
         return setupValid &&
             !dragController.IsDragging &&
-            protrudingPackages == 0;
+            protrudingPackages == 0 &&
+            CargoWeight <= maxCargoWeight;
     }
 
     private void RefreshCargo()
@@ -92,7 +97,8 @@ public class TrailerCargo : MonoBehaviour
         if (cargoText != null)
         {
             cargoText.text =
-                $"Cargo: {CargoCount} packages | {CargoWeight:0.0} kg";
+                $"Cargo: {CargoCount} packages | " +
+                $"{CargoWeight:0.00} / {maxCargoWeight:0.00} kg";
         }
 
         if (dragController.IsDragging)
@@ -103,6 +109,14 @@ public class TrailerCargo : MonoBehaviour
         {
             SetStatus(
                 "A package sticks out. Move it fully inside or outside."
+            );
+        }
+        else if (CargoWeight > maxCargoWeight)
+        {
+            float excessWeight = CargoWeight - maxCargoWeight;
+
+            SetStatus(
+                $"Truck overweight by {excessWeight:0.00} kg. Remove some cargo."
             );
         }
         else
@@ -131,7 +145,10 @@ public class TrailerCargo : MonoBehaviour
         CargoWeight = 0f;
 
         if (cargoText != null)
-            cargoText.text = "Cargo: 0 packages | 0.0 kg";
+        {
+            cargoText.text =
+                $"Cargo: 0 packages | 0.00 / {maxCargoWeight:0.00} kg";
+        }
 
         SetStatus("Ready to leave. Press Esc to return.");
 
