@@ -171,6 +171,8 @@ MonoBehaviour:
   frequency: 4
   dampingRatio: 0.7
   maxForce: 150
+  draggingCursor: {fileID: 2800000, guid: ef78cc08217359e4e8ce3c44c53e98c1, type: 3}
+  draggingHotspot: {x: 0, y: 0}
 --- !u!120 &39986655
 LineRenderer:
   serializedVersion: 3

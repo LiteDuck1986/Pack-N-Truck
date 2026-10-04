@@ -14,6 +14,10 @@ public class PackageDragController : MonoBehaviour
     [SerializeField, Range(0f, 1f)] private float dampingRatio = 0.7f;
     [SerializeField] private float maxForce = 150f;
 
+    [Header("Cursor")]
+    [SerializeField] private Texture2D draggingCursor;
+    [SerializeField] private Vector2 draggingHotspot = new Vector2(16f, 16f);
+
     private Rigidbody2D heldBody;
     private TargetJoint2D dragJoint;
     private LineRenderer dragLine;
@@ -119,6 +123,15 @@ public class PackageDragController : MonoBehaviour
         dragJoint.maxForce = maxForce;
 
         body.WakeUp();
+
+        if (draggingCursor != null)
+        {
+            Cursor.SetCursor(
+                draggingCursor,
+                draggingHotspot,
+                CursorMode.Auto
+            );
+        }
     }
 
     private void ReleasePackage()
@@ -134,6 +147,8 @@ public class PackageDragController : MonoBehaviour
 
         if (dragLine != null)
             dragLine.enabled = false;
+
+        Cursor.SetCursor(null, Vector2.zero, CursorMode.Auto);
     }
 
     private void OnDisable()
