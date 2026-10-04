@@ -66,6 +66,11 @@ public class VehicleController : MonoBehaviour
         moveInput = Vector2.ClampMagnitude(moveInput, 1f);
     }
 
+    public void SetMoveSpeed(float speed)
+    {
+        moveSpeed = Mathf.Max(0.1f, speed);
+    }
+
     // Rigidbody update
     private void FixedUpdate()
     {

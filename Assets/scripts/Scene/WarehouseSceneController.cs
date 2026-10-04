@@ -12,6 +12,7 @@ public class WarehouseSceneController : MonoBehaviour
     [SerializeField] private Transform pickupPoint;
     [SerializeField] private float interactionDistance = 2f;
     [SerializeField] private TMP_Text interactionText;
+    [SerializeField] private VehicleShop vehicleShop;
 
     [Header("Warehouse")]
     [SerializeField] private string warehouseSceneName = "Warehouse";
@@ -27,6 +28,9 @@ public class WarehouseSceneController : MonoBehaviour
 
     private void Update()
     {
+        if (vehicleShop != null && vehicleShop.IsOpen)
+            return;
+
         if (switchingScenes)
             return;
 
@@ -116,6 +120,16 @@ public class WarehouseSceneController : MonoBehaviour
             overworldRoot.SetActive(true);
             switchingScenes = false;
             yield break;
+        }
+
+        TrailerCargo cargo = warehouseRoot.GetComponent<TrailerCargo>();
+
+        if (cargo != null && vehicleShop != null &&
+            vehicleShop.EquippedVehicle != null)
+        {
+            cargo.SetMaxCargoWeight(
+                vehicleShop.EquippedVehicle.maxCargoWeight
+            );
         }
 
         warehouseRoot.SetActive(true);

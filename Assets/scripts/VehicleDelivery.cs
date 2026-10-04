@@ -8,6 +8,7 @@ public class VehicleDelivery : MonoBehaviour
     [SerializeField] private WarehouseSceneController warehouseController;
     [SerializeField] private Transform pickupPoint;
     [SerializeField] private Transform deliveryPoint;
+    [SerializeField] private VehicleShop vehicleShop;
 
     [Header("Delivery")]
     [SerializeField] private float interactionDistance = 2f;
@@ -18,9 +19,13 @@ public class VehicleDelivery : MonoBehaviour
     [SerializeField] private TMP_Text instructionText;
 
     private int money;
+    public int Money => money;
 
     private void Update()
     {
+        if (vehicleShop != null && vehicleShop.IsOpen)
+            return;
+
         if (warehouseController == null ||
             warehouseController.InWarehouse)
         {
@@ -85,6 +90,15 @@ public class VehicleDelivery : MonoBehaviour
             instructionText.text =
                 $"{cargoSummary}\nDrive to the delivery point.";
         }
+    }
+
+    public bool TrySpend(int amount)
+    {
+        if (amount < 0 || money < amount)
+            return false;
+
+        money -= amount;
+        return true;
     }
 
     private bool IsNear(Transform point)

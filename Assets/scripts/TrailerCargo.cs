@@ -44,6 +44,14 @@ public class TrailerCargo : MonoBehaviour
             CargoWeight <= maxCargoWeight;
     }
 
+    public void SetMaxCargoWeight(float weight)
+    {
+        maxCargoWeight = Mathf.Max(0.1f, weight);
+
+        if (gameObject.activeInHierarchy)
+            RefreshCargo();
+    }
+
     private void RefreshCargo()
     {
         loadedPackages.Clear();

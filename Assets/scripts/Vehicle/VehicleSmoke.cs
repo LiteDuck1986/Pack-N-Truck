@@ -34,6 +34,18 @@ public class VehicleSmoke : MonoBehaviour
         );
     }
 
+    public void SetExhaustPosition(Vector3 position)
+    {
+        rightFacingPosition = position;
+
+        Vector3 mirroredPosition = position;
+
+        if (vehicleSprite.flipX)
+            mirroredPosition.x = -mirroredPosition.x;
+
+        smoke.transform.localPosition = mirroredPosition;
+    }
+
     private void LateUpdate()
     {
         // Mirror the exhaust position when the sprite faces left.

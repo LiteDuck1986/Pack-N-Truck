@@ -52,6 +52,11 @@ public class VehicleAudio : MonoBehaviour
         source.volume = 0f;
     }
 
+    public void SetReferenceSpeed(float speed)
+    {
+        referenceSpeed = Mathf.Max(0.1f, speed);
+    }
+
     private void OnEnable()
     {
         if (idleSource == null || driveSource == null)
