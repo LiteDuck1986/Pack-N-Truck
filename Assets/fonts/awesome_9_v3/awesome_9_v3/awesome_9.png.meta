@@ -1,0 +1,7020 @@
+fileFormatVersion: 2
+guid: 23627a00285010940ae41b730598c4f4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4250110435445622971
+    second: awesome_9_0
+  - first:
+      213: -6062859350131707665
+    second: awesome_9_1
+  - first:
+      213: 1760930161051287833
+    second: awesome_9_2
+  - first:
+      213: 2845154266946055541
+    second: awesome_9_3
+  - first:
+      213: 4027713326740319389
+    second: awesome_9_4
+  - first:
+      213: -316855361015064184
+    second: awesome_9_5
+  - first:
+      213: -5958569045635572135
+    second: awesome_9_6
+  - first:
+      213: -9189636445033261371
+    second: awesome_9_7
+  - first:
+      213: 5743678442018948571
+    second: awesome_9_8
+  - first:
+      213: 437202144567752651
+    second: awesome_9_9
+  - first:
+      213: 586425112714282297
+    second: awesome_9_10
+  - first:
+      213: 6483951585471268897
+    second: awesome_9_11
+  - first:
+      213: -2601572029354909612
+    second: awesome_9_12
+  - first:
+      213: 1405421820386663076
+    second: awesome_9_13
+  - first:
+      213: -7950657947199875832
+    second: awesome_9_14
+  - first:
+      213: -1870606925756237680
+    second: awesome_9_15
+  - first:
+      213: -8222194787640085780
+    second: awesome_9_16
+  - first:
+      213: -4194346146790745995
+    second: awesome_9_17
+  - first:
+      213: -1869671191462705113
+    second: awesome_9_18
+  - first:
+      213: 8276254215801146698
+    second: awesome_9_19
+  - first:
+      213: 7035797939732757018
+    second: awesome_9_20
+  - first:
+      213: 8834616958809556627
+    second: awesome_9_21
+  - first:
+      213: -369840564561819534
+    second: awesome_9_22
+  - first:
+      213: 6919277665287988728
+    second: awesome_9_23
+  - first:
+      213: -247270765448845209
+    second: awesome_9_24
+  - first:
+      213: -7662433643019998065
+    second: awesome_9_25
+  - first:
+      213: 3512056067289000812
+    second: awesome_9_26
+  - first:
+      213: 7039606045717904667
+    second: awesome_9_27
+  - first:
+      213: 2315153724968619618
+    second: awesome_9_28
+  - first:
+      213: 5549542338359102281
+    second: awesome_9_29
+  - first:
+      213: -7456149089982515554
+    second: awesome_9_30
+  - first:
+      213: 21578215959034191
+    second: awesome_9_31
+  - first:
+      213: 6688568026995538391
+    second: awesome_9_32
+  - first:
+      213: -4009343204252661592
+    second: awesome_9_33
+  - first:
+      213: 7617172527106172916
+    second: awesome_9_34
+  - first:
+      213: -5206255122108239503
+    second: awesome_9_35
+  - first:
+      213: 969405666300408043
+    second: awesome_9_36
+  - first:
+      213: 3386966380263924326
+    second: awesome_9_37
+  - first:
+      213: 4439839404174194439
+    second: awesome_9_38
+  - first:
+      213: -4315227773558520307
+    second: awesome_9_39
+  - first:
+      213: -4478964881282577844
+    second: awesome_9_40
+  - first:
+      213: -3533187440231455267
+    second: awesome_9_41
+  - first:
+      213: -3727393444344673725
+    second: awesome_9_42
+  - first:
+      213: 6949574733348343574
+    second: awesome_9_43
+  - first:
+      213: 8257521726300481089
+    second: awesome_9_44
+  - first:
+      213: 5912053717206867532
+    second: awesome_9_45
+  - first:
+      213: -744577555976257399
+    second: awesome_9_46
+  - first:
+      213: -7605436923207881811
+    second: awesome_9_47
+  - first:
+      213: 4438486112521422052
+    second: awesome_9_48
+  - first:
+      213: 1807768926854360549
+    second: awesome_9_49
+  - first:
+      213: 3680160873529533918
+    second: awesome_9_50
+  - first:
+      213: -3105643958552945805
+    second: awesome_9_51
+  - first:
+      213: -8512020899925917044
+    second: awesome_9_52
+  - first:
+      213: -3972053134612377035
+    second: awesome_9_53
+  - first:
+      213: -8112851063783836064
+    second: awesome_9_54
+  - first:
+      213: -5969385774855835149
+    second: awesome_9_55
+  - first:
+      213: 3082902448663576268
+    second: awesome_9_56
+  - first:
+      213: 7493329845423997094
+    second: awesome_9_57
+  - first:
+      213: -669700408782194165
+    second: awesome_9_58
+  - first:
+      213: -176522024533339749
+    second: awesome_9_59
+  - first:
+      213: 3815907762418576635
+    second: awesome_9_60
+  - first:
+      213: -7893665037726262868
+    second: awesome_9_61
+  - first:
+      213: -1051287777450554176
+    second: awesome_9_62
+  - first:
+      213: 8667578844117941276
+    second: awesome_9_63
+  - first:
+      213: -7113186812557504263
+    second: awesome_9_64
+  - first:
+      213: 6600279971823715317
+    second: awesome_9_65
+  - first:
+      213: -4585117720207286590
+    second: awesome_9_66
+  - first:
+      213: -2859637968227218063
+    second: awesome_9_67
+  - first:
+      213: 4451111995931326246
+    second: awesome_9_68
+  - first:
+      213: 2427130790562594666
+    second: awesome_9_69
+  - first:
+      213: 6523825904545509769
+    second: awesome_9_70
+  - first:
+      213: -5703745216005530637
+    second: awesome_9_71
+  - first:
+      213: -1097083957573444430
+    second: awesome_9_72
+  - first:
+      213: -5343963689180062731
+    second: awesome_9_73
+  - first:
+      213: -502880597410861086
+    second: awesome_9_74
+  - first:
+      213: 2830024252241745868
+    second: awesome_9_75
+  - first:
+      213: 461856843909964104
+    second: awesome_9_76
+  - first:
+      213: -9166697726453044691
+    second: awesome_9_77
+  - first:
+      213: 1214417396757072774
+    second: awesome_9_78
+  - first:
+      213: 7655226267527638948
+    second: awesome_9_79
+  - first:
+      213: 2169242754583103755
+    second: awesome_9_80
+  - first:
+      213: -3320879240599686849
+    second: awesome_9_81
+  - first:
+      213: 439239661184626152
+    second: awesome_9_82
+  - first:
+      213: 3949397388852492539
+    second: awesome_9_83
+  - first:
+      213: 8795051113634156700
+    second: awesome_9_84
+  - first:
+      213: -2233077392280846337
+    second: awesome_9_85
+  - first:
+      213: -7172766720694576335
+    second: awesome_9_86
+  - first:
+      213: 2694091585471600737
+    second: awesome_9_87
+  - first:
+      213: 4637400188237090589
+    second: awesome_9_88
+  - first:
+      213: -853920961542493942
+    second: awesome_9_89
+  - first:
+      213: -7692799239495525066
+    second: awesome_9_90
+  - first:
+      213: -4689013997846761718
+    second: awesome_9_91
+  - first:
+      213: 9037111637004453862
+    second: awesome_9_92
+  - first:
+      213: -3330131406129095858
+    second: awesome_9_93
+  - first:
+      213: -8377267358359917843
+    second: awesome_9_94
+  - first:
+      213: 554725870465242092
+    second: awesome_9_95
+  - first:
+      213: 5776771727491582958
+    second: awesome_9_96
+  - first:
+      213: 1855067831184552548
+    second: awesome_9_97
+  - first:
+      213: -4818693049200421511
+    second: awesome_9_98
+  - first:
+      213: 4997754055075198926
+    second: awesome_9_99
+  - first:
+      213: 8142254516270757552
+    second: awesome_9_100
+  - first:
+      213: -2555336154498850351
+    second: awesome_9_101
+  - first:
+      213: 1476329493095570693
+    second: awesome_9_102
+  - first:
+      213: 4948267283491968219
+    second: awesome_9_103
+  - first:
+      213: 4050787527475081786
+    second: awesome_9_104
+  - first:
+      213: 1554255560238759824
+    second: awesome_9_105
+  - first:
+      213: 1065487066378068269
+    second: awesome_9_106
+  - first:
+      213: 3866139335880913712
+    second: awesome_9_107
+  - first:
+      213: -1923223130903820121
+    second: awesome_9_108
+  - first:
+      213: 4964861763830093815
+    second: awesome_9_109
+  - first:
+      213: 7847636369593892622
+    second: awesome_9_110
+  - first:
+      213: 2121373597036877331
+    second: awesome_9_111
+  - first:
+      213: -6609583043593078684
+    second: awesome_9_112
+  - first:
+      213: -8231622796266925271
+    second: awesome_9_113
+  - first:
+      213: 906560779219294156
+    second: awesome_9_114
+  - first:
+      213: 1309122929437006118
+    second: awesome_9_115
+  - first:
+      213: 7790023101999242674
+    second: awesome_9_116
+  - first:
+      213: 1119436036448398772
+    second: awesome_9_117
+  - first:
+      213: 7051509066167841743
+    second: awesome_9_118
+  - first:
+      213: 1653270015206868447
+    second: awesome_9_119
+  - first:
+      213: 2866089308159686726
+    second: awesome_9_120
+  - first:
+      213: 473052453845212491
+    second: awesome_9_121
+  - first:
+      213: -6694896506387965660
+    second: awesome_9_122
+  - first:
+      213: 4172014774802199923
+    second: awesome_9_123
+  - first:
+      213: -7258124839596761632
+    second: awesome_9_124
+  - first:
+      213: -6214721793488445936
+    second: awesome_9_125
+  - first:
+      213: -1674649588028366882
+    second: awesome_9_126
+  - first:
+      213: -2360259180925306886
+    second: awesome_9_127
+  - first:
+      213: -7824076378386808285
+    second: awesome_9_128
+  - first:
+      213: -7693389031519739266
+    second: awesome_9_129
+  - first:
+      213: -6377609963775390847
+    second: awesome_9_130
+  - first:
+      213: 7270972455062985460
+    second: awesome_9_131
+  - first:
+      213: -7271936762321005684
+    second: awesome_9_132
+  - first:
+      213: 1547321592726844391
+    second: awesome_9_133
+  - first:
+      213: 8597691333164241698
+    second: awesome_9_134
+  - first:
+      213: -8648502010219606305
+    second: awesome_9_135
+  - first:
+      213: 8458429246605256444
+    second: awesome_9_136
+  - first:
+      213: 8257882626889828326
+    second: awesome_9_137
+  - first:
+      213: -402255181302222458
+    second: awesome_9_138
+  - first:
+      213: -4798942633075038370
+    second: awesome_9_139
+  - first:
+      213: 1901340960705718368
+    second: awesome_9_140
+  - first:
+      213: 4149278780435075847
+    second: awesome_9_141
+  - first:
+      213: -941320775230961469
+    second: awesome_9_142
+  - first:
+      213: 2777590582404893638
+    second: awesome_9_143
+  - first:
+      213: -5530744768338334297
+    second: awesome_9_144
+  - first:
+      213: -5680785778350679853
+    second: awesome_9_145
+  - first:
+      213: -321653749113669981
+    second: awesome_9_146
+  - first:
+      213: 6430753012242643673
+    second: awesome_9_147
+  - first:
+      213: -6300531571416870971
+    second: awesome_9_148
+  - first:
+      213: -7168991746529626503
+    second: awesome_9_149
+  - first:
+      213: -3462031691532173035
+    second: awesome_9_150
+  - first:
+      213: 991842626630190784
+    second: awesome_9_151
+  - first:
+      213: -8318907620631444065
+    second: awesome_9_152
+  - first:
+      213: -4183957507190984411
+    second: awesome_9_153
+  - first:
+      213: -7377078147217899616
+    second: awesome_9_154
+  - first:
+      213: -7578577087389280238
+    second: awesome_9_155
+  - first:
+      213: 9212710138429791750
+    second: awesome_9_156
+  - first:
+      213: 2513615627999969780
+    second: awesome_9_157
+  - first:
+      213: -776661346888100609
+    second: awesome_9_158
+  - first:
+      213: 2671813372554730632
+    second: awesome_9_159
+  - first:
+      213: -3633526672952062714
+    second: awesome_9_160
+  - first:
+      213: 2904941924807983133
+    second: awesome_9_161
+  - first:
+      213: 3467238439500652090
+    second: awesome_9_162
+  - first:
+      213: 6426588902118766510
+    second: awesome_9_163
+  - first:
+      213: -6257394329444981730
+    second: awesome_9_164
+  - first:
+      213: 8806271906275377964
+    second: awesome_9_165
+  - first:
+      213: 2548050842524498591
+    second: awesome_9_166
+  - first:
+      213: -7793706309806851209
+    second: awesome_9_167
+  - first:
+      213: -8608679111355990335
+    second: awesome_9_168
+  - first:
+      213: 5400469556926292185
+    second: awesome_9_169
+  - first:
+      213: -6307636423344463316
+    second: awesome_9_170
+  - first:
+      213: -6673745346297230586
+    second: awesome_9_171
+  - first:
+      213: 5360022629691357022
+    second: awesome_9_172
+  - first:
+      213: 7532386531139187112
+    second: awesome_9_173
+  - first:
+      213: 7020188171627478833
+    second: awesome_9_174
+  - first:
+      213: -4767312410446666828
+    second: awesome_9_175
+  - first:
+      213: -6546691376300256448
+    second: awesome_9_176
+  - first:
+      213: 2694153419220720677
+    second: awesome_9_177
+  - first:
+      213: 5507799821479941039
+    second: awesome_9_178
+  - first:
+      213: -3561362964649196912
+    second: awesome_9_179
+  - first:
+      213: -4922756390119969512
+    second: awesome_9_180
+  - first:
+      213: 1633665166940615632
+    second: awesome_9_181
+  - first:
+      213: -4005411913727328303
+    second: awesome_9_182
+  - first:
+      213: -1346989428579108028
+    second: awesome_9_183
+  - first:
+      213: -8155774449795849824
+    second: awesome_9_184
+  - first:
+      213: 5033495835155809673
+    second: awesome_9_185
+  - first:
+      213: 8344271209719417664
+    second: awesome_9_186
+  - first:
+      213: -484558285839618632
+    second: awesome_9_187
+  - first:
+      213: 1555250701803806057
+    second: awesome_9_188
+  - first:
+      213: -850588751022826063
+    second: awesome_9_189
+  - first:
+      213: -1878824076718473036
+    second: awesome_9_190
+  - first:
+      213: 5594310222794745728
+    second: awesome_9_191
+  - first:
+      213: -8279479641967016201
+    second: awesome_9_192
+  - first:
+      213: -1390236508146762807
+    second: awesome_9_193
+  - first:
+      213: 6780989407501204626
+    second: awesome_9_194
+  - first:
+      213: 5780931793505853571
+    second: awesome_9_195
+  - first:
+      213: 2659802048252887359
+    second: awesome_9_196
+  - first:
+      213: -4091853869295567333
+    second: awesome_9_197
+  - first:
+      213: -6982118177541895340
+    second: awesome_9_198
+  - first:
+      213: -516638911016858263
+    second: awesome_9_199
+  - first:
+      213: -6493711493179502637
+    second: awesome_9_200
+  - first:
+      213: -1049587776420223903
+    second: awesome_9_201
+  - first:
+      213: 2245663051130973111
+    second: awesome_9_202
+  - first:
+      213: -5105859054681819667
+    second: awesome_9_203
+  - first:
+      213: -7635100561300631256
+    second: awesome_9_204
+  - first:
+      213: -6215236908991906113
+    second: awesome_9_205
+  - first:
+      213: 1204592371571472722
+    second: awesome_9_206
+  - first:
+      213: 8704004946330001063
+    second: awesome_9_207
+  - first:
+      213: 5482486965928692930
+    second: awesome_9_208
+  - first:
+      213: 7107171355296356169
+    second: awesome_9_209
+  - first:
+      213: -4839469807935547211
+    second: awesome_9_210
+  - first:
+      213: 1520036460291111702
+    second: awesome_9_211
+  - first:
+      213: -7740562705574976935
+    second: awesome_9_212
+  - first:
+      213: -4091035184819080689
+    second: awesome_9_213
+  - first:
+      213: 4398094651177676982
+    second: awesome_9_214
+  - first:
+      213: 8137812558013053054
+    second: awesome_9_215
+  - first:
+      213: 3770670093517446910
+    second: awesome_9_216
+  - first:
+      213: 3615879212080316978
+    second: awesome_9_217
+  - first:
+      213: 7102620534177542553
+    second: awesome_9_218
+  - first:
+      213: 352358304786252261
+    second: awesome_9_219
+  - first:
+      213: 2883018331968847017
+    second: awesome_9_220
+  - first:
+      213: 1075797781209355350
+    second: awesome_9_221
+  - first:
+      213: 3682652160246510577
+    second: awesome_9_222
+  - first:
+      213: 1008592387152240214
+    second: awesome_9_223
+  - first:
+      213: 4539355155869366079
+    second: awesome_9_224
+  - first:
+      213: 2560660641934453133
+    second: awesome_9_225
+  - first:
+      213: -715462004967493242
+    second: awesome_9_226
+  - first:
+      213: -8264083848225066228
+    second: awesome_9_227
+  - first:
+      213: -1677994153028686244
+    second: awesome_9_228
+  - first:
+      213: -5248054623014766587
+    second: awesome_9_229
+  - first:
+      213: 1374167843808239951
+    second: awesome_9_230
+  - first:
+      213: 5668895324451576467
+    second: awesome_9_231
+  - first:
+      213: -8715062316183962237
+    second: awesome_9_232
+  - first:
+      213: 8962526863835269892
+    second: awesome_9_233
+  - first:
+      213: 2713409741609738652
+    second: awesome_9_234
+  - first:
+      213: 8430372398064561577
+    second: awesome_9_235
+  - first:
+      213: -7349107619648430528
+    second: awesome_9_236
+  - first:
+      213: 1513199706532860195
+    second: awesome_9_237
+  - first:
+      213: 3043891617846663966
+    second: awesome_9_238
+  - first:
+      213: 9048752234238347516
+    second: awesome_9_239
+  - first:
+      213: 8265420806657661660
+    second: awesome_9_240
+  - first:
+      213: -4959440332015387693
+    second: awesome_9_241
+  - first:
+      213: -8049222783286261541
+    second: awesome_9_242
+  - first:
+      213: -4193696839927587059
+    second: awesome_9_243
+  - first:
+      213: -9200804804722609356
+    second: awesome_9_244
+  - first:
+      213: -3150760695081654317
+    second: awesome_9_245
+  - first:
+      213: 4017439060391511874
+    second: awesome_9_246
+  - first:
+      213: 801186749955290459
+    second: awesome_9_247
+  - first:
+      213: -4259846460047572675
+    second: awesome_9_248
+  - first:
+      213: -6455900718329391090
+    second: awesome_9_249
+  - first:
+      213: 8249947492391436716
+    second: awesome_9_250
+  - first:
+      213: -7237916820956523077
+    second: awesome_9_251
+  - first:
+      213: -4006687031722823274
+    second: awesome_9_252
+  - first:
+      213: -1606577223333196760
+    second: awesome_9_253
+  - first:
+      213: -6629292268436975825
+    second: awesome_9_254
+  - first:
+      213: 2478603931088892734
+    second: awesome_9_255
+  - first:
+      213: 5768141025608880922
+    second: awesome_9_256
+  - first:
+      213: -7285327431200203370
+    second: awesome_9_257
+  - first:
+      213: -5647813344884432229
+    second: awesome_9_258
+  - first:
+      213: -8703229430140138884
+    second: awesome_9_259
+  - first:
+      213: -8304313082640168974
+    second: awesome_9_260
+  - first:
+      213: -7153844634240627097
+    second: awesome_9_261
+  - first:
+      213: 3073241539348933620
+    second: awesome_9_262
+  - first:
+      213: 2100920043374145002
+    second: awesome_9_263
+  - first:
+      213: 7245086662730390356
+    second: awesome_9_264
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: awesome_9_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 163
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8cae84cec6bfa30800000000000000
+      internalID: 4250110435445622971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 163
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe07e302b856cdba0800000000000000
+      internalID: -6062859350131707665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 163
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911cbb3d6a4107810800000000000000
+      internalID: 1760930161051287833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_3
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 163
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57da1844bb40c7720800000000000000
+      internalID: 2845154266946055541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_4
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 163
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ca6715eef45e730800000000000000
+      internalID: 4027713326740319389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_5
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 163
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889d4895abd4a9bf0800000000000000
+      internalID: -316855361015064184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_6
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 163
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ed049d509ee4da0800000000000000
+      internalID: -5958569045635572135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_7
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 163
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c61fce875ad77080800000000000000
+      internalID: -9189636445033261371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 163
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5cb989c15a5bf40800000000000000
+      internalID: 5743678442018948571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_9
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 162
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7fff9b801411600800000000000000
+      internalID: 437202144567752651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_10
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 163
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93504b27886632800800000000000000
+      internalID: 586425112714282297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_11
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 163
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12888d01d9f9bf950800000000000000
+      internalID: 6483951585471268897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_12
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 162
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45065b4e50c55ebd0800000000000000
+      internalID: -2601572029354909612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_13
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 163
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aadabb03bf018310800000000000000
+      internalID: 1405421820386663076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_14
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 163
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805d38ea8b699a190800000000000000
+      internalID: -7950657947199875832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_15
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 163
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098f9e379e44a06e0800000000000000
+      internalID: -1870606925756237680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_16
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 162
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2f4a85765e4ed80800000000000000
+      internalID: -8222194787640085780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_17
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 163
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578528fe660bac5c0800000000000000
+      internalID: -4194346146790745995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_18
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 163
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728851215f79d06e0800000000000000
+      internalID: -1869671191462705113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_19
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 163
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d08ab1c592bd270800000000000000
+      internalID: 8276254215801146698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_20
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 163
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a323de2fc24a160800000000000000
+      internalID: 7035797939732757018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_21
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 163
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3964c74f05dda9a70800000000000000
+      internalID: 8834616958809556627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_22
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 162
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27843cd47ff0edaf0800000000000000
+      internalID: -369840564561819534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_23
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 163
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5e8cd6066360060800000000000000
+      internalID: 6919277665287988728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_24
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 163
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76825168c84819cf0800000000000000
+      internalID: -247270765448845209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_25
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 163
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c6ac0f23199a590800000000000000
+      internalID: -7662433643019998065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 147
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b2402b2645db030800000000000000
+      internalID: 3512056067289000812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_27
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 147
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d35b1b664b1b160800000000000000
+      internalID: 7039606045717904667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_28
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 147
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e4d21fb04112020800000000000000
+      internalID: 2315153724968619618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_29
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 147
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b82ef9a5fe30d40800000000000000
+      internalID: 5549542338359102281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_30
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 147
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e967d3338ef668890800000000000000
+      internalID: -7456149089982515554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_31
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 146
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49ff19e549ac4000800000000000000
+      internalID: 21578215959034191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_32
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 145
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9ba19de2192dc50800000000000000
+      internalID: 6688568026995538391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_33
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 147
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8c4ef1993fb58c0800000000000000
+      internalID: -4009343204252661592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 147
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7270f4e02a5b960800000000000000
+      internalID: 7617172527106172916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_35
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 146
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1713ea4ec8aafb7b0800000000000000
+      internalID: -5206255122108239503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_36
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 147
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0361f3155047d00800000000000000
+      internalID: 969405666300408043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_37
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 147
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66262d95afbe00f20800000000000000
+      internalID: 3386966380263924326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_38
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 147
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707b5913a6a7d9d30800000000000000
+      internalID: 4439839404174194439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_39
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 121
+        width: 9
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d060528f33b3d14c0800000000000000
+      internalID: -4315227773558520307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_40
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 147
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ac3b9cb2587d1c0800000000000000
+      internalID: -4478964881282577844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_41
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 146
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5e1242eb897fec0800000000000000
+      internalID: -3533187440231455267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_42
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 146
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a47b33963a54cc0800000000000000
+      internalID: -3727393444344673725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_43
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 137
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f02494669d17060800000000000000
+      internalID: 6949574733348343574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_44
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 147
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146e535824c989270800000000000000
+      internalID: 8257521726300481089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_45
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 147
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e942b4885db0250800000000000000
+      internalID: 5912053717206867532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_46
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 147
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9808e4468aabaa5f0800000000000000
+      internalID: -744577555976257399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_47
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 147
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dabed86e96f047690800000000000000
+      internalID: -7605436923207881811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_48
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 147
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4085d6a9ba89d30800000000000000
+      internalID: 4438486112521422052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_49
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 147
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eda421d24c761910800000000000000
+      internalID: 1807768926854360549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_50
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 145
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5e40fe0de821330800000000000000
+      internalID: 3680160873529533918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_51
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 147
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b1d9b264986e4d0800000000000000
+      internalID: -3105643958552945805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 131
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c820733171a3fd980800000000000000
+      internalID: -8512020899925917044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_53
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 131
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532d37a08be60e8c0800000000000000
+      internalID: -3972053134612377035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_54
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 131
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066b383f0fc596f80800000000000000
+      internalID: -8112851063783836064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_55
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 131
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1b272d34b782da0800000000000000
+      internalID: -5969385774855835149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_56
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 131
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce36c1717ba8ca20800000000000000
+      internalID: 3082902448663576268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_57
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 131
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a084550bc7adf760800000000000000
+      internalID: 7493329845423997094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_58
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 131
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a7a94c60fb4b6f0800000000000000
+      internalID: -669700408782194165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_59
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 131
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9158a8672edc8df0800000000000000
+      internalID: -176522024533339749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_60
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 131
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc6d9274e3d4f430800000000000000
+      internalID: 3815907762418576635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_61
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 131
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9d76a7871147290800000000000000
+      internalID: -7893665037726262868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_62
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 119
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc895c16531961f0800000000000000
+      internalID: -1051287777450554176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_63
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 114
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c3752390d694870800000000000000
+      internalID: 8667578844117941276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_64
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 130
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f054800842e84d90800000000000000
+      internalID: -7113186812557504263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_65
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 136
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f38da22aa7e89b50800000000000000
+      internalID: 6600279971823715317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_66
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 132
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce12b9f9b36e50c0800000000000000
+      internalID: -4585117720207286590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_67
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 132
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17dc89d3b668058d0800000000000000
+      internalID: -2859637968227218063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_68
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 131
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62777fcf6c685cd30800000000000000
+      internalID: 4451111995931326246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_69
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 130
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f75e23896eea120800000000000000
+      internalID: 2427130790562594666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_70
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 130
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9813de07819498a50800000000000000
+      internalID: 6523825904545509769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_71
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 114
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb18ae12f938d0b0800000000000000
+      internalID: -5703745216005530637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_72
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 114
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc1e0404ff56c0f0800000000000000
+      internalID: -1097083957573444430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_73
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 103
+        width: 6
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb16d5965d66d5b0800000000000000
+      internalID: -5343963689180062731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_74
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 104
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2efa3e2d2c86509f0800000000000000
+      internalID: -502880597410861086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_75
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 117
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc71c943014464720800000000000000
+      internalID: 2830024252241745868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_76
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 114
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841265e3a58d86600800000000000000
+      internalID: 461856843909964104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_77
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 115
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2aa26b2cf859c080800000000000000
+      internalID: -9166697726453044691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_78
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 114
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b82c6203a7ad010800000000000000
+      internalID: 1214417396757072774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_79
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 114
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af693f2bb3dc3a60800000000000000
+      internalID: 7655226267527638948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_80
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 115
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09048acac2ba1e10800000000000000
+      internalID: 2169242754583103755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_81
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 119
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31361aecedd9e1d0800000000000000
+      internalID: -3320879240599686849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_82
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 118
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed2c28052e781600800000000000000
+      internalID: 439239661184626152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_83
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 99
+        width: 9
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8786710041fc630800000000000000
+      internalID: 3949397388852492539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_84
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 99
+        width: 9
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c905191c36c4e0a70800000000000000
+      internalID: 8795051113634156700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_85
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 115
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffff42d61f38201e0800000000000000
+      internalID: -2233077392280846337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_86
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 115
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b9144aba6357c90800000000000000
+      internalID: -7172766720694576335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_87
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 114
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1685768e506536520800000000000000
+      internalID: 2694091585471600737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_88
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 113
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f8335b6ea5b5040800000000000000
+      internalID: 4637400188237090589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_89
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 114
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09eff4e8634624f0800000000000000
+      internalID: -853920961542493942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_90
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 114
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d597199dfad3590800000000000000
+      internalID: -7692799239495525066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_91
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 113
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f6287cc964deeb0800000000000000
+      internalID: -4689013997846761718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_92
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 113
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e7033737254a6d70800000000000000
+      internalID: 9037111637004453862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 103
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b9d42412ff8c1d0800000000000000
+      internalID: -3330131406129095858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_94
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 104
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea6b74e8b7fdbb80800000000000000
+      internalID: -8377267358359917843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_95
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 99
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3dcc87d38c2b700800000000000000
+      internalID: 554725870465242092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_96
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 99
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eebc7ad87473b2050800000000000000
+      internalID: 5776771727491582958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_97
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 98
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46272082d568eb910800000000000000
+      internalID: 1855067831184552548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_98
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 98
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975d3c8c330902db0800000000000000
+      internalID: -4818693049200421511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_99
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 83
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7768775d69b5540800000000000000
+      internalID: 4997754055075198926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_100
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 100
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b67321d7591ff070800000000000000
+      internalID: 8142254516270757552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_101
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 99
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d122656e4f998cd0800000000000000
+      internalID: -2555336154498850351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_102
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 99
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50dd46f1ad9fc7410800000000000000
+      internalID: 1476329493095570693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_103
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 99
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4d93690e6cba440800000000000000
+      internalID: 4948267283491968219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_104
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 99
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a323cb35bc9473830800000000000000
+      internalID: 4050787527475081786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_105
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 97
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ff43e7233d19510800000000000000
+      internalID: 1554255560238759824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_106
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 99
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21ec3877de59ce00800000000000000
+      internalID: 1065487066378068269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_107
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 97
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033b8570e3947a530800000000000000
+      internalID: 3866139335880913712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_108
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 99
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8c9aa80c65f45e0800000000000000
+      internalID: -1923223130903820121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_109
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 99
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f71300287bb6e440800000000000000
+      internalID: 4964861763830093815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_110
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 99
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f741813b768ec60800000000000000
+      internalID: 7847636369593892622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_111
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 99
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31696470c02a07d10800000000000000
+      internalID: 2121373597036877331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_112
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 99
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468703dad3b0644a0800000000000000
+      internalID: -6609583043593078684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_113
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 83
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92390870ea663cd80800000000000000
+      internalID: -8231622796266925271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_114
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 83
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7daacb930c49c00800000000000000
+      internalID: 906560779219294156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_115
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 83
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62959684e50fa2210800000000000000
+      internalID: 1309122929437006118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_116
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 83
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd50caecb8bb1c60800000000000000
+      internalID: 7790023101999242674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_117
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 83
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd2745e429098f00800000000000000
+      internalID: 1119436036448398772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_118
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 83
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3716b922efbd160800000000000000
+      internalID: 7051509066167841743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_119
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 83
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5c536c15891f610800000000000000
+      internalID: 1653270015206868447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_120
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 97
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64837636a0566c720800000000000000
+      internalID: 2866089308159686726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_121
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 83
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d129f43be909600800000000000000
+      internalID: 473052453845212491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_122
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 83
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429ddb83913f613a0800000000000000
+      internalID: -6694896506387965660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_123
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 83
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37534c95559f5e930800000000000000
+      internalID: 4172014774802199923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_124
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 83
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed5560e9e5f54b90800000000000000
+      internalID: -7258124839596761632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_125
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 83
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e1e31b47fd0c9a0800000000000000
+      internalID: -6214721793488445936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_126
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 83
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf9056821372c8e0800000000000000
+      internalID: -1674649588028366882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_127
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 83
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7b717b7ccae3fd0800000000000000
+      internalID: -2360259180925306886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_128
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 83
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322cab2dcfb4b6390800000000000000
+      internalID: -7824076378386808285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_129
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 83
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e722169ef679b3590800000000000000
+      internalID: -7693389031519739266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_130
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 83
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b0d29278d2e77a0800000000000000
+      internalID: -6377609963775390847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_131
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 83
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fadda3bceea7e460800000000000000
+      internalID: 7270972455062985460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_132
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 81
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8390c40b04e41b90800000000000000
+      internalID: -7271936762321005684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_133
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 83
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e376cf5ac0397510800000000000000
+      internalID: 1547321592726844391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_134
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 82
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22395b907b2215770800000000000000
+      internalID: 8597691333164241698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_135
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 83
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdecb915e395af780800000000000000
+      internalID: -8648502010219606305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_136
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 81
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf66ea9c590626570800000000000000
+      internalID: 8458429246605256444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_137
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 82
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e743ac3f74e99270800000000000000
+      internalID: 8257882626889828326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_138
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 83
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681bb693b07ea6af0800000000000000
+      internalID: -402255181302222458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_139
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 67
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57a512e91bb66db0800000000000000
+      internalID: -4798942633075038370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_140
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 67
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068a3cfa78be26a10800000000000000
+      internalID: 1901340960705718368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_141
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 67
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70316e52113359930800000000000000
+      internalID: 4149278780435075847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_142
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 67
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8c9a40eb1cfe2f0800000000000000
+      internalID: -941320775230961469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_143
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 67
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cbc6bb1bebfb8620800000000000000
+      internalID: 2777590582404893638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_144
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 67
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ade7d3bfe8de33b0800000000000000
+      internalID: -5530744768338334297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_145
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 67
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d81154ce6bc921b0800000000000000
+      internalID: -5680785778350679853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_146
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 67
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6386f8e91498bf0800000000000000
+      internalID: -321653749113669981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_147
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 67
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dafef40bcf9e3950800000000000000
+      internalID: 6430753012242643673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_148
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 67
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf409ddae30098a0800000000000000
+      internalID: -6300531571416870971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_149
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 67
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976f46e4dff928c90800000000000000
+      internalID: -7168991746529626503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_150
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 67
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5118419e48464ffc0800000000000000
+      internalID: -3462031691532173035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_151
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 65
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c602692d9bb3cd00800000000000000
+      internalID: 991842626630190784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_152
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 67
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9509f0389d4d8c80800000000000000
+      internalID: -8318907620631444065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_153
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 65
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5217d8490d89fe5c0800000000000000
+      internalID: -4183957507190984411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_154
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 67
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0afb7c2b28a5f9990800000000000000
+      internalID: -7377078147217899616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_155
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 67
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2185f33ca4c73d690800000000000000
+      internalID: -7578577087389280238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_156
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 67
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e5fb35f0f1adf70800000000000000
+      internalID: 9212710138429791750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_157
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 67
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f10fc0981822e220800000000000000
+      internalID: 2513615627999969780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_158
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 67
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff455f3be9eb835f0800000000000000
+      internalID: -776661346888100609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_159
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 67
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c53414b10341520800000000000000
+      internalID: 2671813372554730632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_160
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 65
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d09c00ebe139dc0800000000000000
+      internalID: -3633526672952062714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_161
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 65
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10c1512a4d605820800000000000000
+      internalID: 2904941924807983133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_162
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 67
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e14029dfa1e1030800000000000000
+      internalID: 3467238439500652090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_163
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 67
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7b1449e84df2950800000000000000
+      internalID: 6426588902118766510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_164
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 67
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1463eda2054929a0800000000000000
+      internalID: -6257394329444981730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23cb0124a9263a70800000000000000
+      internalID: 8806271906275377964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_166
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 51
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9abe4abdbe7c5320800000000000000
+      internalID: 2548050842524498591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_167
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 51
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77bfd30776137d390800000000000000
+      internalID: -7793706309806851209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_168
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 51
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cefc4e75f3d78880800000000000000
+      internalID: -8608679111355990335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_169
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 51
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d027e8f27252fa40800000000000000
+      internalID: 5400469556926292185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_170
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 51
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22ec3e9716c678a0800000000000000
+      internalID: -6307636423344463316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_171
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 51
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b898077f71263a0800000000000000
+      internalID: -6673745346297230586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_172
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 51
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57fecede20a26a40800000000000000
+      internalID: 5360022629691357022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_173
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 51
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1fc7b44a9688860800000000000000
+      internalID: 7532386531139187112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_174
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 51
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f314292f7bc6160800000000000000
+      internalID: 7020188171627478833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_175
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 51
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3e30afe9a17ddb0800000000000000
+      internalID: -4767312410446666828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_176
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 50
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043928d01ea7525a0800000000000000
+      internalID: -6546691376300256448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_177
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 51
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c1e03b24e836520800000000000000
+      internalID: 2694153419220720677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_178
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 51
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa3954d81c2af6c40800000000000000
+      internalID: 5507799821479941039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_179
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 49
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0924ad7a04f739ec0800000000000000
+      internalID: -3561362964649196912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_180
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 50
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d6d13252bdeabb0800000000000000
+      internalID: -4922756390119969512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_181
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 49
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3bc6550d1fba610800000000000000
+      internalID: 1633665166940615632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_182
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 51
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df3a27061be968c0800000000000000
+      internalID: -4005411913727328303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_183
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 51
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44bf55950488e4de0800000000000000
+      internalID: -1346989428579108028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_184
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 51
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a126bb595ed0de80800000000000000
+      internalID: -8155774449795849824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_185
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 51
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985ced02bc19ad540800000000000000
+      internalID: 5033495835155809673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_186
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 51
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b48d4947eccc370800000000000000
+      internalID: 8344271209719417664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_187
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 49
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bdae8b6ec08649f0800000000000000
+      internalID: -484558285839618632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_188
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 49
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d51b1f54c559510800000000000000
+      internalID: 1555250701803806057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_189
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 51
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd575d990a1234f0800000000000000
+      internalID: -850588751022826063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_190
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 51
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b08eb7e4731de5e0800000000000000
+      internalID: -1878824076718473036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_191
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0876409f18bf2ad40800000000000000
+      internalID: 5594310222794745728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_192
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 35
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f64a77d121691d80800000000000000
+      internalID: -8279479641967016201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_193
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 35
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cbf12af243e4bce0800000000000000
+      internalID: -1390236508146762807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_194
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 35
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29cbbcb50f9ea1e50800000000000000
+      internalID: 6780989407501204626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_195
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 35
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380ada666def93050800000000000000
+      internalID: 5780931793505853571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_196
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 34
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3148f2eed389e420800000000000000
+      internalID: 2659802048252887359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_197
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 35
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e74dfd590d637c0800000000000000
+      internalID: -4091853869295567333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_198
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 35
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b41d7a2888a1f90800000000000000
+      internalID: -6982118177541895340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_199
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 35
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d02bfc5a784d8f0800000000000000
+      internalID: -516638911016858263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_200
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 34
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df0a275dc3b1e5a0800000000000000
+      internalID: -6493711493179502637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_201
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 35
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16461e17a7d1f61f0800000000000000
+      internalID: -1049587776420223903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_202
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 35
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bba1ef95a23a2f10800000000000000
+      internalID: 2245663051130973111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_203
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 35
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de57a74ed385429b0800000000000000
+      internalID: -5105859054681819667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_204
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 35
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8215a43fd7caa0690800000000000000
+      internalID: -7635100561300631256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_205
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 35
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbef3a406fa0fb9a0800000000000000
+      internalID: -6215236908991906113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_206
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 35
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259b9a6316297b010800000000000000
+      internalID: 1204592371571472722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_207
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 35
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae1e350266dac870800000000000000
+      internalID: 8704004946330001063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_208
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 34
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc83e919d4b51c40800000000000000
+      internalID: 5482486965928692930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_209
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 35
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947554631beb1a260800000000000000
+      internalID: 7107171355296356169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_210
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 35
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b816cca9dfb6dcb0800000000000000
+      internalID: -4839469807935547211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_211
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 34
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b3b4d6b11481510800000000000000
+      internalID: 1520036460291111702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_212
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 35
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95221940b3ff39490800000000000000
+      internalID: -7740562705574976935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_213
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 35
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02fb35bc29b937c0800000000000000
+      internalID: -4091035184819080689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_214
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 35
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b0bdfb78cb290d30800000000000000
+      internalID: 4398094651177676982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_215
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 35
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78b411d7615fe070800000000000000
+      internalID: 8137812558013053054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_216
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 35
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efedb41e87c145430800000000000000
+      internalID: 3770670093517446910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_217
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23244c25cfe2e2230800000000000000
+      internalID: 3615879212080316978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_218
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 18
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9913c0a9eb3919260800000000000000
+      internalID: 7102620534177542553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_219
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 19
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e18176e204d3e400800000000000000
+      internalID: 352358304786252261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_220
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 19
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac31f5e5e9820820800000000000000
+      internalID: 2883018331968847017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_221
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 17
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6541327d1600eee00800000000000000
+      internalID: 1075797781209355350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_222
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 19
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f371d2d0a86b1330800000000000000
+      internalID: 3682652160246510577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_223
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 19
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e5f5fae6d3ffd00800000000000000
+      internalID: 1008592387152240214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_224
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 19
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f377ee6b6770ffe30800000000000000
+      internalID: 4539355155869366079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_225
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 19
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89a3d0794b498320800000000000000
+      internalID: 2560660641934453133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_226
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 19
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681bf9fd81b2216f0800000000000000
+      internalID: -715462004967493242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_227
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 19
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0370886683105d80800000000000000
+      internalID: -8264083848225066228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_228
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 19
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5eea8d453196b8e0800000000000000
+      internalID: -1677994153028686244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_229
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 19
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508bb51302a2b27b0800000000000000
+      internalID: -5248054623014766587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_230
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 19
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4164ff8f56021310800000000000000
+      internalID: 1374167843808239951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_231
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 19
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a1fc23346fbae40800000000000000
+      internalID: 5668895324451576467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_232
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 19
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d36707ff0ed0780800000000000000
+      internalID: -8715062316183962237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_233
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 18
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b0cc872ba416c70800000000000000
+      internalID: 8962526863835269892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_234
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 19
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91abb2a8c7f7a520800000000000000
+      internalID: 2713409741609738652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_235
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 19
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad65eea703bef470800000000000000
+      internalID: 8430372398064561577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_236
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 19
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e1db2ae89b20a90800000000000000
+      internalID: -7349107619648430528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_237
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 18
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321dd16ad17fff410800000000000000
+      internalID: 1513199706532860195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_238
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 19
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b1a889c431e3a20800000000000000
+      internalID: 3043891617846663966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_239
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 19
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf88c46f630a39d70800000000000000
+      internalID: 9048752234238347516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_240
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 19
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdad3fb7e6ca4b270800000000000000
+      internalID: 8265420806657661660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_241
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 19
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db3a755b478c2bb0800000000000000
+      internalID: -4959440332015387693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_242
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 19
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8cd34768a6b4090800000000000000
+      internalID: -8049222783286261541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_243
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f107871fefcc5c0800000000000000
+      internalID: -4193696839927587059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_244
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 3
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4333dce27cc205080800000000000000
+      internalID: -9200804804722609356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_245
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 2
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7256d57df3644d0800000000000000
+      internalID: -3150760695081654317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_246
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 3
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2474a654a8fc0c730800000000000000
+      internalID: 4017439060391511874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_247
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 3
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55b5ddaa136e1b00800000000000000
+      internalID: 801186749955290459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_248
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 2
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31c827d63cf1e4c0800000000000000
+      internalID: -4259846460047572675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_249
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0899c260880866a0800000000000000
+      internalID: -6455900718329391090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_250
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 3
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1cd93c883bd7270800000000000000
+      internalID: 8249947492391436716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_251
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 3
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5df0ddff0cd8b90800000000000000
+      internalID: -7237916820956523077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_252
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6913ffb7f536568c0800000000000000
+      internalID: -4006687031722823274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_253
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ccdf2078a44b9e0800000000000000
+      internalID: -1606577223333196760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_254
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 3
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f029b2ec50004a0800000000000000
+      internalID: -6629292268436975825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_255
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 2
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33b073a425c56220800000000000000
+      internalID: 2478603931088892734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_256
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 3
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1356cda3bd8c0050800000000000000
+      internalID: 5768141025608880922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_257
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 3
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d17e6fc4155ea90800000000000000
+      internalID: -7285327431200203370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_258
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92e37cafafee91b0800000000000000
+      internalID: -5647813344884432229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_259
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 3
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a85c9e1fae73780800000000000000
+      internalID: -8703229430140138884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_260
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 3
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f78a9ddf3721cc80800000000000000
+      internalID: -8304313082640168974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_261
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 3
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ec0c5353078bc90800000000000000
+      internalID: -7153844634240627097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_262
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 3
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb2ed5b5e856aa20800000000000000
+      internalID: 3073241539348933620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_263
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 3
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed60d6f5a7f72d10800000000000000
+      internalID: 2100920043374145002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome_9_264
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 3
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b17f20fe7bb8460800000000000000
+      internalID: 7245086662730390356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      awesome_9_0: 4250110435445622971
+      awesome_9_1: -6062859350131707665
+      awesome_9_10: 586425112714282297
+      awesome_9_100: 8142254516270757552
+      awesome_9_101: -2555336154498850351
+      awesome_9_102: 1476329493095570693
+      awesome_9_103: 4948267283491968219
+      awesome_9_104: 4050787527475081786
+      awesome_9_105: 1554255560238759824
+      awesome_9_106: 1065487066378068269
+      awesome_9_107: 3866139335880913712
+      awesome_9_108: -1923223130903820121
+      awesome_9_109: 4964861763830093815
+      awesome_9_11: 6483951585471268897
+      awesome_9_110: 7847636369593892622
+      awesome_9_111: 2121373597036877331
+      awesome_9_112: -6609583043593078684
+      awesome_9_113: -8231622796266925271
+      awesome_9_114: 906560779219294156
+      awesome_9_115: 1309122929437006118
+      awesome_9_116: 7790023101999242674
+      awesome_9_117: 1119436036448398772
+      awesome_9_118: 7051509066167841743
+      awesome_9_119: 1653270015206868447
+      awesome_9_12: -2601572029354909612
+      awesome_9_120: 2866089308159686726
+      awesome_9_121: 473052453845212491
+      awesome_9_122: -6694896506387965660
+      awesome_9_123: 4172014774802199923
+      awesome_9_124: -7258124839596761632
+      awesome_9_125: -6214721793488445936
+      awesome_9_126: -1674649588028366882
+      awesome_9_127: -2360259180925306886
+      awesome_9_128: -7824076378386808285
+      awesome_9_129: -7693389031519739266
+      awesome_9_13: 1405421820386663076
+      awesome_9_130: -6377609963775390847
+      awesome_9_131: 7270972455062985460
+      awesome_9_132: -7271936762321005684
+      awesome_9_133: 1547321592726844391
+      awesome_9_134: 8597691333164241698
+      awesome_9_135: -8648502010219606305
+      awesome_9_136: 8458429246605256444
+      awesome_9_137: 8257882626889828326
+      awesome_9_138: -402255181302222458
+      awesome_9_139: -4798942633075038370
+      awesome_9_14: -7950657947199875832
+      awesome_9_140: 1901340960705718368
+      awesome_9_141: 4149278780435075847
+      awesome_9_142: -941320775230961469
+      awesome_9_143: 2777590582404893638
+      awesome_9_144: -5530744768338334297
+      awesome_9_145: -5680785778350679853
+      awesome_9_146: -321653749113669981
+      awesome_9_147: 6430753012242643673
+      awesome_9_148: -6300531571416870971
+      awesome_9_149: -7168991746529626503
+      awesome_9_15: -1870606925756237680
+      awesome_9_150: -3462031691532173035
+      awesome_9_151: 991842626630190784
+      awesome_9_152: -8318907620631444065
+      awesome_9_153: -4183957507190984411
+      awesome_9_154: -7377078147217899616
+      awesome_9_155: -7578577087389280238
+      awesome_9_156: 9212710138429791750
+      awesome_9_157: 2513615627999969780
+      awesome_9_158: -776661346888100609
+      awesome_9_159: 2671813372554730632
+      awesome_9_16: -8222194787640085780
+      awesome_9_160: -3633526672952062714
+      awesome_9_161: 2904941924807983133
+      awesome_9_162: 3467238439500652090
+      awesome_9_163: 6426588902118766510
+      awesome_9_164: -6257394329444981730
+      awesome_9_165: 8806271906275377964
+      awesome_9_166: 2548050842524498591
+      awesome_9_167: -7793706309806851209
+      awesome_9_168: -8608679111355990335
+      awesome_9_169: 5400469556926292185
+      awesome_9_17: -4194346146790745995
+      awesome_9_170: -6307636423344463316
+      awesome_9_171: -6673745346297230586
+      awesome_9_172: 5360022629691357022
+      awesome_9_173: 7532386531139187112
+      awesome_9_174: 7020188171627478833
+      awesome_9_175: -4767312410446666828
+      awesome_9_176: -6546691376300256448
+      awesome_9_177: 2694153419220720677
+      awesome_9_178: 5507799821479941039
+      awesome_9_179: -3561362964649196912
+      awesome_9_18: -1869671191462705113
+      awesome_9_180: -4922756390119969512
+      awesome_9_181: 1633665166940615632
+      awesome_9_182: -4005411913727328303
+      awesome_9_183: -1346989428579108028
+      awesome_9_184: -8155774449795849824
+      awesome_9_185: 5033495835155809673
+      awesome_9_186: 8344271209719417664
+      awesome_9_187: -484558285839618632
+      awesome_9_188: 1555250701803806057
+      awesome_9_189: -850588751022826063
+      awesome_9_19: 8276254215801146698
+      awesome_9_190: -1878824076718473036
+      awesome_9_191: 5594310222794745728
+      awesome_9_192: -8279479641967016201
+      awesome_9_193: -1390236508146762807
+      awesome_9_194: 6780989407501204626
+      awesome_9_195: 5780931793505853571
+      awesome_9_196: 2659802048252887359
+      awesome_9_197: -4091853869295567333
+      awesome_9_198: -6982118177541895340
+      awesome_9_199: -516638911016858263
+      awesome_9_2: 1760930161051287833
+      awesome_9_20: 7035797939732757018
+      awesome_9_200: -6493711493179502637
+      awesome_9_201: -1049587776420223903
+      awesome_9_202: 2245663051130973111
+      awesome_9_203: -5105859054681819667
+      awesome_9_204: -7635100561300631256
+      awesome_9_205: -6215236908991906113
+      awesome_9_206: 1204592371571472722
+      awesome_9_207: 8704004946330001063
+      awesome_9_208: 5482486965928692930
+      awesome_9_209: 7107171355296356169
+      awesome_9_21: 8834616958809556627
+      awesome_9_210: -4839469807935547211
+      awesome_9_211: 1520036460291111702
+      awesome_9_212: -7740562705574976935
+      awesome_9_213: -4091035184819080689
+      awesome_9_214: 4398094651177676982
+      awesome_9_215: 8137812558013053054
+      awesome_9_216: 3770670093517446910
+      awesome_9_217: 3615879212080316978
+      awesome_9_218: 7102620534177542553
+      awesome_9_219: 352358304786252261
+      awesome_9_22: -369840564561819534
+      awesome_9_220: 2883018331968847017
+      awesome_9_221: 1075797781209355350
+      awesome_9_222: 3682652160246510577
+      awesome_9_223: 1008592387152240214
+      awesome_9_224: 4539355155869366079
+      awesome_9_225: 2560660641934453133
+      awesome_9_226: -715462004967493242
+      awesome_9_227: -8264083848225066228
+      awesome_9_228: -1677994153028686244
+      awesome_9_229: -5248054623014766587
+      awesome_9_23: 6919277665287988728
+      awesome_9_230: 1374167843808239951
+      awesome_9_231: 5668895324451576467
+      awesome_9_232: -8715062316183962237
+      awesome_9_233: 8962526863835269892
+      awesome_9_234: 2713409741609738652
+      awesome_9_235: 8430372398064561577
+      awesome_9_236: -7349107619648430528
+      awesome_9_237: 1513199706532860195
+      awesome_9_238: 3043891617846663966
+      awesome_9_239: 9048752234238347516
+      awesome_9_24: -247270765448845209
+      awesome_9_240: 8265420806657661660
+      awesome_9_241: -4959440332015387693
+      awesome_9_242: -8049222783286261541
+      awesome_9_243: -4193696839927587059
+      awesome_9_244: -9200804804722609356
+      awesome_9_245: -3150760695081654317
+      awesome_9_246: 4017439060391511874
+      awesome_9_247: 801186749955290459
+      awesome_9_248: -4259846460047572675
+      awesome_9_249: -6455900718329391090
+      awesome_9_25: -7662433643019998065
+      awesome_9_250: 8249947492391436716
+      awesome_9_251: -7237916820956523077
+      awesome_9_252: -4006687031722823274
+      awesome_9_253: -1606577223333196760
+      awesome_9_254: -6629292268436975825
+      awesome_9_255: 2478603931088892734
+      awesome_9_256: 5768141025608880922
+      awesome_9_257: -7285327431200203370
+      awesome_9_258: -5647813344884432229
+      awesome_9_259: -8703229430140138884
+      awesome_9_26: 3512056067289000812
+      awesome_9_260: -8304313082640168974
+      awesome_9_261: -7153844634240627097
+      awesome_9_262: 3073241539348933620
+      awesome_9_263: 2100920043374145002
+      awesome_9_264: 7245086662730390356
+      awesome_9_27: 7039606045717904667
+      awesome_9_28: 2315153724968619618
+      awesome_9_29: 5549542338359102281
+      awesome_9_3: 2845154266946055541
+      awesome_9_30: -7456149089982515554
+      awesome_9_31: 21578215959034191
+      awesome_9_32: 6688568026995538391
+      awesome_9_33: -4009343204252661592
+      awesome_9_34: 7617172527106172916
+      awesome_9_35: -5206255122108239503
+      awesome_9_36: 969405666300408043
+      awesome_9_37: 3386966380263924326
+      awesome_9_38: 4439839404174194439
+      awesome_9_39: -4315227773558520307
+      awesome_9_4: 4027713326740319389
+      awesome_9_40: -4478964881282577844
+      awesome_9_41: -3533187440231455267
+      awesome_9_42: -3727393444344673725
+      awesome_9_43: 6949574733348343574
+      awesome_9_44: 8257521726300481089
+      awesome_9_45: 5912053717206867532
+      awesome_9_46: -744577555976257399
+      awesome_9_47: -7605436923207881811
+      awesome_9_48: 4438486112521422052
+      awesome_9_49: 1807768926854360549
+      awesome_9_5: -316855361015064184
+      awesome_9_50: 3680160873529533918
+      awesome_9_51: -3105643958552945805
+      awesome_9_52: -8512020899925917044
+      awesome_9_53: -3972053134612377035
+      awesome_9_54: -8112851063783836064
+      awesome_9_55: -5969385774855835149
+      awesome_9_56: 3082902448663576268
+      awesome_9_57: 7493329845423997094
+      awesome_9_58: -669700408782194165
+      awesome_9_59: -176522024533339749
+      awesome_9_6: -5958569045635572135
+      awesome_9_60: 3815907762418576635
+      awesome_9_61: -7893665037726262868
+      awesome_9_62: -1051287777450554176
+      awesome_9_63: 8667578844117941276
+      awesome_9_64: -7113186812557504263
+      awesome_9_65: 6600279971823715317
+      awesome_9_66: -4585117720207286590
+      awesome_9_67: -2859637968227218063
+      awesome_9_68: 4451111995931326246
+      awesome_9_69: 2427130790562594666
+      awesome_9_7: -9189636445033261371
+      awesome_9_70: 6523825904545509769
+      awesome_9_71: -5703745216005530637
+      awesome_9_72: -1097083957573444430
+      awesome_9_73: -5343963689180062731
+      awesome_9_74: -502880597410861086
+      awesome_9_75: 2830024252241745868
+      awesome_9_76: 461856843909964104
+      awesome_9_77: -9166697726453044691
+      awesome_9_78: 1214417396757072774
+      awesome_9_79: 7655226267527638948
+      awesome_9_8: 5743678442018948571
+      awesome_9_80: 2169242754583103755
+      awesome_9_81: -3320879240599686849
+      awesome_9_82: 439239661184626152
+      awesome_9_83: 3949397388852492539
+      awesome_9_84: 8795051113634156700
+      awesome_9_85: -2233077392280846337
+      awesome_9_86: -7172766720694576335
+      awesome_9_87: 2694091585471600737
+      awesome_9_88: 4637400188237090589
+      awesome_9_89: -853920961542493942
+      awesome_9_9: 437202144567752651
+      awesome_9_90: -7692799239495525066
+      awesome_9_91: -4689013997846761718
+      awesome_9_92: 9037111637004453862
+      awesome_9_93: -3330131406129095858
+      awesome_9_94: -8377267358359917843
+      awesome_9_95: 554725870465242092
+      awesome_9_96: 5776771727491582958
+      awesome_9_97: 1855067831184552548
+      awesome_9_98: -4818693049200421511
+      awesome_9_99: 4997754055075198926
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

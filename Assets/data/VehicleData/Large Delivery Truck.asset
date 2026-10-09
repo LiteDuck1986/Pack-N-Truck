@@ -17,6 +17,6 @@ MonoBehaviour:
   sprite: {fileID: 21300000, guid: 0fe9ee5ee5524794490d354f72b224a9, type: 3}
   moveSpeed: 6
   maxCargoWeight: 20
-  colliderSize: {x: 0.3392331, y: 0.2033572}
-  colliderOffset: {x: -0.007963091, y: -0.0007332414}
-  exhaustPosition: {x: -0.1768, y: -0.0728, z: 0}
+  colliderSize: {x: 0.3785628, y: 0.2235839}
+  colliderOffset: {x: 0.003835797, y: -0.005228069}
+  exhaustPosition: {x: -0.2123, y: -0.0954, z: 0}
